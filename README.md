@@ -82,3 +82,7 @@ npm run dev
 ## 开发说明
 
 详见 [AGENTS.md](./AGENTS.md) 了解项目架构和编码规范。
+
+## 版权
+© 2025 liiivan2. All rights reserved. This code is for viewing only.
+
